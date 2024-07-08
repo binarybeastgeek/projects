@@ -11,3 +11,5 @@ if numero_usuario == numero_maquina:
     print("Muy bien, adivinaste el número.")
 else:
     print("No adivinaste el número")
+
+print("Gracias por jugar")
